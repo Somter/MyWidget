@@ -1,0 +1,12 @@
+{
+  "platform": "CRM",
+  "widget": {
+    "name": "CurrencyWidget",
+    "location": {
+      "deals.relatedlist": {
+        "url": "widget.html",
+        "label": "Курс валют"
+      }
+    }
+  }
+}
